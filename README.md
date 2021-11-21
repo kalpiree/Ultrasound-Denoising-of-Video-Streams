@@ -1,8 +1,10 @@
 # Ultrasound Image Denoising with video streams
 This repository contains Matlab code to remove speckled noise from ultrasound videos.
 
-The below images shows an example of removing noise from ultrasound image
+The below images shows an example of removing noise from ultrasound image.
 
+![alt text](https://github.com/kalpiree/Digital_Image_Processing/blob/main/imgs/noisy_1.bmp)
+![alt text](https://github.com/kalpiree/Digital_Image_Processing/blob/main/imgs/filtered_1.bmp)
 
 
 
@@ -26,4 +28,5 @@ The repository contains following files:
 
 ## How to use?
 
-Run main.m file.
+1. Run main.m file.
+2. The filtered video will be stored as 'filter_video.avi' file in the main directory.
