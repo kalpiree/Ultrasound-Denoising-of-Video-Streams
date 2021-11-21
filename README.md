@@ -1,5 +1,5 @@
 # Ultrasound Image Denoising with video streams
-This repository contains Matlab code to remove speckled noise from ultrasound videos.
+This repository contains Matlab code to remove speckled noise from ultrasound videos. The detailed writeup of the project can be viewed at [Google Drive](https://drive.google.com/file/d/1uahHK6XdOQxeoOzY_LXusbLQ9T5wGjfB/view?usp=sharing). The noisy ultrasound sample video and the denoised video can be viewed at [Google Drive](https://drive.google.com/drive/folders/1mQBpqOLQqG0ii3f7hN9-scDGFHGcIjPD?usp=sharing).
 
 The below images shows an example of removing noise from ultrasound image.
 
